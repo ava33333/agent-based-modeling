@@ -9,7 +9,9 @@ annotated code and notes — it will expand over time as the research progresses
 Agent-based modeling is a form of generative science used to map complex, 
 large-scale patterns from interactions between individual agents. Rather than 
 modeling a system top-down, you define simple agent behaviors and let 
-emergent structure arise from their interactions.
+emergent structure arise from their interactions. Agents are independent individuals 
+in a population, each defined by their own state and behavioral rules.
+
 
 ## Contents
 
