@@ -15,12 +15,16 @@ in a population, each defined by their own state and behavioral rules.
 
 ## Contents
 
-Each example follows the same structure:
-- `model.py` — working implementation
-- `notes.md` — reading notes, observations, and questions from working 
-  through the model
+### `foundations-of-summer-research/`
+Foundational ABM examples and concepts built at the start of the research process.
 
-### Examples
+**`notes/`** — General notes on ABM concepts, tools, and libraries built up over the course of the research.
+
+**Examples** follow this structure:
+- `model.py` — working implementation
+- `notes.md` — observations and questions from working through the model
+
+#### Examples
 - `predator-prey/` — agents move on a toroidal grid, consuming resources 
   and reproducing based on energy thresholds. Demonstrates core ABM concepts: 
   agent state, emergent population dynamics, and environment interaction.
