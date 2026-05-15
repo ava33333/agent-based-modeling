@@ -1,4 +1,5 @@
 ### ABM Concepts
+This document contains all of my notes on the basics of Agent Based Modeling.
 
 - ABM: agent based modeling; form of generative science (generating patterns from collected data) used to map complex, large scale patterns from interactions between agents
     - agent: independent heterogenous individual
