@@ -170,3 +170,5 @@ param_run = mesa.batch_run(
 )
 
 param_run
+
+plt.show()

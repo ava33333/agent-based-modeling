@@ -36,7 +36,7 @@ class Predator(ap.Agent):
         prey.alive = False
 
     def reproduce(self):
-        if self.energy >= 6:
+        if self.energy == 6:
             self.energy = 3     # each child gets half energy
             new_agent = ap.AgentList(self.model, 1, Predator)   # create new child
             new_agent[0].energy = 3     # give it 3 energy too
@@ -74,7 +74,7 @@ class Prey(ap.Agent):
         self.energy += 1
 
     def reproduce(self): # see comments in other reproduce function (for predator)
-        if self.energy >= 6:
+        if self.energy == 6:
             self.energy = 3
             new_agent = ap.AgentList(self.model, 1, Prey)
             new_agent[0].energy = 3
