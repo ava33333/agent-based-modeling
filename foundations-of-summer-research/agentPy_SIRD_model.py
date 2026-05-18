@@ -64,13 +64,14 @@ class Human(ap.Agent):
         dead = False
         # if they are in the sick period
         if 0 < self.daysSick < 6:
-            if random.random() < 0.016:
+            if random.random() < 0.05:
                 self.healthStatus = "dead"
                 dead = True
         return dead
+    
     def sickProb(self):
         sick = False
-        if random.random() < 0.2:
+        if random.random() < 0.5:
             # set them to sick
             self.healthStatus = "sick"
             self.daysSick = 1
@@ -116,7 +117,7 @@ class Environment(ap.Model):
 
 parameters = {
     'size': 20,
-    'population': 50,
+    'population': 80,
 }
 
 def animation_plot(model, ax):

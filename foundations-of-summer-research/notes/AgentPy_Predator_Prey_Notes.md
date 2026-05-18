@@ -2,7 +2,7 @@
 
 These are my notes on the predator prey model AgentPy setup, including the thinking and rules behind the model. This is an exploratory example to learn AgentPy basics
 
-The corresponding code is in the parent folder titled agentPy_ex.py.
+The corresponding code is in the parent folder titled agentPy_Pred_Prey.py.
 
 ### Model Rules & Design Decisions
 
