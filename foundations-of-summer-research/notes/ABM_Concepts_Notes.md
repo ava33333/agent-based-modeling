@@ -1,5 +1,31 @@
-### ABM Concepts
-This document contains all of my notes on the basics of Agent Based Modeling.
+This document holds all of my notes on the basics of ABM, microbes, and any other foundational information. I added some extra information I thought was interesting or helpful to me.
+
+### Microbes & Biology
+
+- microbe: a type of tiny microorganism too small to be seen by the naked eye.
+    - types of microbes: bacteria, archaea, fungi, viruses, protozoa, algae, prions
+- Microbes are found throughout the human body, often working symbiotically
+    - gut microbiome: aka microbiota; group of microbes that live in the gut
+- The gut microbiome is critical for:
+    - metabolism & digestion
+    - vitamin production
+    - pathogen protection
+    - immune regulation
+- Dysbiosis: imbalance in the microbes. Can cause variety of things like:
+    - SIBO/gut issues
+    - neurological issues (Parkinsons, autism, Alzheimer's, depression)
+    - obesity and diabetes (specifically from shifts in ratio of Bacteroidetes and Firmicutes)
+- Types of microbe behaviors:
+    - competition
+    - mutualism
+    - parasitism
+    - amensalism
+    - commensalism
+- Gut microbiota types:
+    - Dominant types are: Firmicutes, Bacteroidetes, Actinobacteria, Proteobacteria, Fusobacteria, and Verrucomicroba
+        - 90 percent are Firmicutes and Bacteroides
+
+### ABM
 
 - ABM: agent based modeling; form of generative science (generating patterns from collected data) used to map complex, large scale patterns from interactions between agents
     - agent: independent heterogenous individual
