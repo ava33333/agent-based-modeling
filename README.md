@@ -5,6 +5,8 @@ A growing collection of ABM examples built during undergraduate ML research
 at the College of Charleston. This repo documents my learning process through 
 annotated code and notes — it will expand over time as the research progresses.
 
+Note: This repository contains coursework, practice models, and public-facing notes. Research outputs will be added as work is completed and cleared for publication.
+
 ## What is ABM?
 
 Agent-based modeling is a form of generative science used to map complex, 
